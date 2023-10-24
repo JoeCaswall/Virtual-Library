@@ -64,7 +64,7 @@ Book.highestRating([book1, book2]); // Returns book2
 ## `Movie` Class
 
 1. In `Movie.js`, create a `Movie` class. The `Movie` class should be a subclass of `Media`. Import `Media` into the `Movie.js` file using `require`. 
-2. `Music` should have the following properties and methods:
+2. `Movie` should have the following properties and methods:
     - `director`: the director of the movie (string)
     - `duration`: the duration of the movie in minutes (number)
     - `rating`: the average rating of the movie (number between 1-5)
